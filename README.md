@@ -32,14 +32,14 @@ modern-timeseries-forecasting-practice/
    git clone https://github.com/yourusername/modern-timeseries-forecasting-practice.git
    cd modern-timeseries-forecasting-practice
    ```
-Create a virtual environment and install dependencies:
+2. Create a virtual environment and install dependencies:
 
 ```bash
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
-Launch Jupyter Lab or Notebook:
+3. Launch Jupyter Lab or Notebook:
 
 ```bash
 jupyter lab
@@ -48,5 +48,7 @@ jupyter lab
 
 Book Reference
 Title: Modern Time Series Forecasting with Python
+
 Author: Manu Joseph
+
 Publisher: Packt
